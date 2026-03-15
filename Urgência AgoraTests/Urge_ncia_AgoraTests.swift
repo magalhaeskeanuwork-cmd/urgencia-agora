@@ -1,0 +1,16 @@
+//
+//  Urge_ncia_AgoraTests.swift
+//  Urgência AgoraTests
+//
+//  Created by Keanu Magalhaes on 15/03/2026.
+//
+
+import Testing
+
+struct Urge_ncia_AgoraTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
